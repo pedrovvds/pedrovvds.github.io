@@ -23,7 +23,7 @@
 	<p align="left">Fato é que, ao esboçarmos uma ideia de produzir uma página Web mais profissional, necessitamos de uma linguagem para escrever as linhas de código que nos possibilitam iniciar e expor nossa criatividade. Como esse comando, por exemplo, em que altera a característica da <i>letra<i>. <font face="Times New Roman">Interessante, não é mesmo? </font>  
 	
         
-       	<p align="left"> <font face="Arial">Não deixe de compartilhar essa página para outras pessoas, isso contribui para o aprendizado básico de criação de websites, então <i>COMPARTILHE<i> com todos. <br /> Através do link da página em <a href="www.youtube.com">Iniciando em HTML</a> 
+       	<p align="left"> <font face="Arial">Não deixe de compartilhar essa página para outras pessoas, isso contribui para o aprendizado básico de criação de websites, então <i>COMPARTILHE<i> com todos. <br /> Através do link da página em <a href="pedrovvds.github.io">Código Fonte HTML</a> 
  	
 	
 	<p align="left"> <font face="Arial" size="3">Resumindo: </font> <br />
